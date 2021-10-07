@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "module": "system",
+    "module": "ESNext",
     "strict": true,
     "noImplicitAny": true,
     "removeComments": true,

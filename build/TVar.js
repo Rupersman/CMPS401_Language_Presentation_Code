@@ -12,4 +12,6 @@ var this_is_an_object = {
     name: "bob",
     nicknames: ["bob", 5, "james"]
 };
+var bad_variable = "";
+bad_variable = 5;
 //# sourceMappingURL=TVar.js.map

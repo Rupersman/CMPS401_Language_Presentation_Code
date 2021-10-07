@@ -31,6 +31,10 @@ let this_is_an_object: Object = {
   nicknames: ["bob", 5, "james"],
 };
 
+//! DO NOT USE THIS IF POSSIBLE
+let bad_variable: any = "";
+bad_variable = 5; //Because then this is allowed
+
 // ************************* //
 // **** TypeScript Only **** //
 // ************************* //
