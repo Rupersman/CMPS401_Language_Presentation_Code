@@ -3,21 +3,15 @@
 // *************** //
 
 // ** Strings ** //
-/* TypeScript */
 let this_is_a_string: String = "Bob";
-/* JavaScript */
 let i_am_also_a_string = "Bob";
 
 // ** Numbers ** //
-/* TypeScript */
 let this_is_a_number: Number = 5;
-/* Javascript */
 let i_am_also_a_number = 5;
 
 // ** Boolans ** //
-/* TypeScript */
 let this_is_a_boolean: Boolean = true;
-/* JavaScript */
 let i_am_also_a_boolean = true;
 
 // ** Arrays ** //
